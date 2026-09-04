@@ -22,6 +22,16 @@ Outside of work, I build and operate practical tools around **AI, workflow autom
 
 ## Featured work
 
+### 🛡️ [AI Support Operations Copilot](https://github.com/savpavi/ai-support-ops-copilot)
+
+Human-in-the-loop support triage: classification, urgency, missing-information detection, security flags and drafted replies — behind guardrails that fail closed, with an evaluation whose labels were frozen before any model ran. The unflattering results (4/33 out-of-distribution) are published on purpose.
+
+**Python · n8n · LLM guardrails · Evaluation harness · 94 tests · CI**
+
+**Case study:** [egebostanci.me/projects/ai-support-operations-copilot](https://egebostanci.me/projects/ai-support-operations-copilot)
+
+---
+
 ### 📅 [ShiftScan](https://github.com/savpavi/ShiftScan)
 
 Turn a shift schedule image into a calendar-ready `.ics` file.
@@ -45,7 +55,7 @@ I build practical automation workflows for tasks such as:
 
 **n8n · APIs · PostgreSQL · LLMs · Docker**
 
-> More public demos and case studies are in progress.
+> Case study: [AI Support Operations Copilot on egebostanci.me](https://egebostanci.me/projects/ai-support-operations-copilot)
 
 ---
 
