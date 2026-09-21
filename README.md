@@ -1,124 +1,38 @@
-# Hi, I'm Ege 
+# Hi, I'm Ege
 
-**B2B Customer Success & Technical Operations · SaaS · APIs · AI Automation**
+**B2B Support & Customer Operations | Travel-Tech**
 
-I work at the intersection of **customer operations, technical support, and automation**.
+I'm based in Eskişehir, Türkiye, and work in B2B agency support on the Pegasus Airlines project at Concentrix. I help travel agencies investigate booking and ticketing issues, manage cases in Salesforce, and coordinate escalations with back-office and IT teams.
 
-By day, I manage complex B2B partner workflows in travel-tech, acting as a bridge between customers, operations teams, and technical stakeholders.
+My background also includes English-language airline support and product, account, and payment support through Intercom. I work in Turkish and English.
 
-Outside of work, I build and operate practical tools around **AI, workflow automation, APIs, and self-hosted infrastructure**.
+## What I do
 
----
+- **Case ownership:** follow B2B agency cases from the initial request through resolution.
+- **Troubleshooting:** check permissions, reproduce reported issues, and document findings for Jira escalations.
+- **Platform guidance:** help agencies navigate booking workflows and platform/API usage questions.
+- **Support documentation:** maintain categorized workflows and response templates for recurring cases.
 
-## What I work on
+**Tools I use at work:** Salesforce · Jira · Intercom · Zendesk
 
-*  **B2B Customer Operations** — escalations, partner workflows, technical liaison, process improvement
-*  **Workflow Automation** — n8n, APIs, webhooks, integrations, repeatable operational workflows
-*  **AI-assisted Operations** — LLM workflows, structured information processing, human-in-the-loop automation
-*  **Technical Support & Troubleshooting** — SaaS platforms, integrations, root-cause analysis
-*  **Self-hosted Infrastructure** — Docker, Linux, Coolify, PostgreSQL, Cloudflare, monitoring
+## A personal project: ShiftScan
 
----
+[ShiftScan](https://github.com/savpavi/ShiftScan) turns a shift schedule image or manually entered shifts into a calendar-ready `.ics` file.
 
-## Featured work
+It started with my own shift-planning needs. I described what I needed, tried the AI-generated versions, and gave feedback on errors, the interface, and changes I wanted. The planning and technical implementation were carried out by AI; my contribution is the practical user perspective.
 
-### 🛡️ [AI Support Operations Copilot](https://github.com/savpavi/ai-support-ops-copilot)
+[Try ShiftScan](https://vardiya.egebostanci.me)
 
-Human-in-the-loop support triage: classification, urgency, missing-information detection, security flags and drafted replies — behind guardrails that fail closed, with an evaluation whose labels were frozen before any model ran. The unflattering results (4/33 out-of-distribution) are published on purpose.
+## Interests & writing
 
-**Python · n8n · LLM guardrails · Evaluation harness · 94 tests · CI**
+I'm interested in how AI tools can help with everyday support and personal workflows. My personal site has Turkish posts about AI tools, Linux, and the software I explore.
 
-**Case study:** [egebostanci.me/projects/ai-support-operations-copilot](https://egebostanci.me/projects/ai-support-operations-copilot)
-
----
-
-### 📅 [ShiftScan](https://github.com/savpavi/ShiftScan)
-
-Turn a shift schedule image into a calendar-ready `.ics` file.
-
-**Python · FastAPI · OCR / AI · JavaScript · Docker**
-
-**Live:** [vardiya.egebostanci.me](https://vardiya.egebostanci.me)
-
----
-
-### 🔄 Support & Operations Automation
-
-I build practical automation workflows for tasks such as:
-
-* ticket and request classification
-* information extraction and routing
-* AI-assisted response drafting
-* API and webhook integrations
-* workflow monitoring and failure handling
-* human approval steps for sensitive actions
-
-**n8n · APIs · PostgreSQL · LLMs · Docker**
-
-> Case study: [AI Support Operations Copilot on egebostanci.me](https://egebostanci.me/projects/ai-support-operations-copilot)
-
----
-
-### 🏠 Self-hosted Automation Infrastructure
-
-I run my own environment for automation, AI tooling, monitoring, and experiments.
-
-Current stack includes:
-
-`Linux` · `Docker` · `Coolify` · `n8n` · `PostgreSQL` · `Cloudflare` · `Tailscale`
-
-I use it to learn the parts that tutorials usually skip: **deployment, reliability, debugging, monitoring, access control, and what happens when things break.**
-
----
-
-## Tech I use
-
-**Automation & AI**
-
-`n8n` `LLM APIs` `MCP` `Prompt Engineering` `Webhooks`
-
-**Backend & Integration**
-
-`Python` `FastAPI` `REST APIs` `PostgreSQL`
-
-**Infrastructure**
-
-`Linux` `Docker` `Coolify` `Cloudflare` `Tailscale`
-
-**Customer & Operations**
-
-`Salesforce` `Jira` `Intercom` `Zendesk`
-
----
-
-## Currently focusing on
-
-I'm currently building deeper expertise around:
-
-* AI-enabled customer support operations
-* technical customer success
-* implementation and API-driven SaaS workflows
-* reliable production automation
-* RAG and knowledge-based support systems
-
----
-
-## Writing
-
-I document things I build, break, fix, and learn at:
-
-🌐 **[egebostanci.me](https://egebostanci.me)**
-
-Topics include automation, AI tooling, Linux, self-hosting, infrastructure, and operational workflows.
-
----
+[Visit egebostanci.me](https://egebostanci.me)
 
 ## Let's connect
 
-*  [LinkedIn](https://www.linkedin.com/in/ege-bostanci/)
-*  [egebostanci.me](https://egebostanci.me)
-*  [mail@egebostanci.me](mailto:mail@egebostanci.me)
+I'm interested in remote **Product Support, B2B Technical Support, and Customer Operations** opportunities.
 
----
-
-*Based in Eskişehir, Türkiye · Open to remote EMEA opportunities in Customer Success, Technical Support, Implementation, Support Operations, and AI Automation.*
+- [LinkedIn](https://www.linkedin.com/in/ege-bostanci/)
+- [Personal site](https://egebostanci.me)
+- [Email](mailto:mail@egebostanci.me)
