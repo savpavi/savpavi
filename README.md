@@ -1,38 +1,45 @@
-# Hi, I'm Ege
+# Hi, I'm Ege 👋
 
-**B2B Support & Customer Operations | Travel-Tech**
+**B2B Support & Customer Operations · Travel-Tech · Turkish / English**
 
-I'm based in Eskişehir, Türkiye, and work in B2B agency support on the Pegasus Airlines project at Concentrix. I help travel agencies investigate booking and ticketing issues, manage cases in Salesforce, and coordinate escalations with back-office and IT teams.
+Support professional based in Eskişehir, Türkiye, with 5+ years in aviation and gaming support.
+Since December 2023 I've handled B2B agency support on the **Pegasus Airlines** project at Concentrix:
+travel agencies bring me booking, ticketing and GDS issues, and I own each case in Salesforce until it's
+resolved, or escalated to back-office/IT with the documentation they need.
 
-My background also includes English-language airline support and product, account, and payment support through Intercom. I work in Turkish and English.
+## In numbers
+
+- **#1 of 9** agents by annual case actions (54,000+)
+- **2,600+** agency cases in a single month, ~90% resolved without escalation
+- Maximum monthly performance score in **19 of 20** months
+- **61** recurring agency issues documented with root cause and impact, at Pegasus's request
+- **63** bilingual (EN/TR) macros for frequent case types
 
 ## What I do
 
-- **Case ownership:** follow B2B agency cases from the initial request through resolution.
-- **Troubleshooting:** check permissions, reproduce reported issues, and document findings for Jira escalations.
-- **Platform guidance:** help agencies navigate booking workflows and platform/API usage questions.
-- **Support documentation:** maintain categorized workflows and response templates for recurring cases.
+- **Case ownership:** B2B agency cases end-to-end, from first request to resolution.
+- **Troubleshooting:** GDS and system-generated ticketing errors; recurring system errors reported to technical teams via Jira.
+- **Platform guidance:** helping agencies with booking platform and integration usage.
+- **Knowledge & training:** macro library for recurring cases; onboarding new hires on Turkish and English lines.
 
-**Tools I use at work:** Salesforce · Jira · Intercom · Zendesk
+**Before that:** English-language passenger support (Turkish Airlines project), escalated complaints and refunds
+under EU261/SHGM rules, and player support via Intercom covering technical, account and payment issues.
 
-## A personal project: ShiftScan
+**Tools:** Salesforce · Jira · Intercom · GDS
 
-[ShiftScan](https://github.com/savpavi/ShiftScan) turns a shift schedule image or manually entered shifts into a calendar-ready `.ics` file.
+## Side project: ShiftScan
 
-It started with my own shift-planning needs. I described what I needed, tried the AI-generated versions, and gave feedback on errors, the interface, and changes I wanted. The planning and technical implementation were carried out by AI; my contribution is the practical user perspective.
+[ShiftScan](https://github.com/savpavi/ShiftScan) turns a shift schedule photo, or manually entered shifts,
+into a calendar-ready `.ics` file. AI wrote the code and handled the technical design; I defined what I needed,
+tried each version in practice, and fed back bugs and interface changes.
+→ [Try it](https://vardiya.egebostanci.me)
 
-[Try ShiftScan](https://vardiya.egebostanci.me)
+## Writing
 
-## Interests & writing
-
-I'm interested in how AI tools can help with everyday support and personal workflows. My personal site has Turkish posts about AI tools, Linux, and the software I explore.
-
-[Visit egebostanci.me](https://egebostanci.me)
+Turkish posts on AI tools, Linux and the software I explore → [egebostanci.me](https://egebostanci.me)
 
 ## Let's connect
 
-I'm interested in remote **Product Support, B2B Technical Support, and Customer Operations** opportunities.
+Open to remote **Product Support, B2B Technical Support and Customer Operations** roles.
 
-- [LinkedIn](https://www.linkedin.com/in/ege-bostanci/)
-- [Personal site](https://egebostanci.me)
-- [Email](mailto:mail@egebostanci.me)
+[LinkedIn](https://www.linkedin.com/in/ege-bostanci/) · [Site](https://egebostanci.me) · [Email](mailto:mail@egebostanci.me)
